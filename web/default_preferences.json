@@ -1,6 +1,6 @@
 {
   "showPreviousViewOnLoad": true,
-  "defaultZoomValue": "",
+  "defaultZoomValue": "page-fit",
   "sidebarViewOnLoad": 0,
   "cursorToolOnLoad": 0,
   "enableWebGL": false,
@@ -19,5 +19,5 @@
   "disablePageMode": false,
   "disablePageLabels": false,
   "scrollModeOnLoad": 0,
-  "spreadModeOnLoad": 0
+  "spreadModeOnLoad": 2
 }
